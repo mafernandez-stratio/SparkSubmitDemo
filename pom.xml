@@ -68,7 +68,7 @@
                     <!-- MainClass in manifest make a executable jar -->
                     <archive>
                         <manifest>
-                            <mainClass>com.utad.bigdata.sparkdemo.VowelsCounter</mainClass>
+                            <mainClass>com.utad.bigdata.sparkdemo.ContadorDeVocales</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

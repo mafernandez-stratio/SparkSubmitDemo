@@ -14,7 +14,7 @@ import scala.io.BufferedSource
   * y devolver un análisis de la aparición del número de vocales.
   * Más información sobre sockets: https://es.wikipedia.org/wiki/Socket_de_Internet
   */
-object VowelsCounter extends App {
+object ContadorDeVocales extends App {
 
   // Aunque aquí no se provee el Master en la Configuración,
   // se proveerá posteriormente al hacer Spark-Submit.
